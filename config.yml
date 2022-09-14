@@ -1,0 +1,27 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: The Guillemets Project
+theme: "PaperMod"
+
+menu:
+    main:
+        - identifier: categories
+          name: categories
+          url: /categories/
+          weight: 10
+        - identifier: about
+          name: about
+          url: /about/
+          weight: 10
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 20
+        - identifier: podcast
+          name: podcast
+          url: /podcast/
+          weight: 30
+        - identifier: voices
+          name: voices
+          url: /voices/
+          weight: 40
