@@ -2,7 +2,7 @@ baseURL: http://example.org/
 languageCode: en-us
 title: The Guillemets Project
 theme: "PaperMod"
-
+publishDir: "docs"
 menu:
     main:
         - identifier: categories
