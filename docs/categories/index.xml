@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on The Guillemets Project</title>
-    <link>http://example.org/categories/</link>
+    <link>https://spookylex.github.io/tgp/categories/</link>
     <description>Recent content in Categories on The Guillemets Project</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://spookylex.github.io/tgp/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

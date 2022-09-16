@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/voices/</loc>
+    <loc>https://spookylex.github.io/tgp/voices/</loc>
     <lastmod>2022-09-16T11:55:36-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://spookylex.github.io/tgp/about/</loc>
     <lastmod>2022-09-14T18:46:29-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/first/</loc>
+    <loc>https://spookylex.github.io/tgp/tags/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/page/</loc>
+    <loc>https://spookylex.github.io/tgp/page/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://spookylex.github.io/tgp/tags/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://spookylex.github.io/tgp/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://spookylex.github.io/tgp/categories/</loc>
   </url>
 </urlset>

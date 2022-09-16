@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>The Guillemets Project</title>
-    <link>http://example.org/</link>
+    <link>https://spookylex.github.io/tgp/</link>
     <description>Recent content on The Guillemets Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://spookylex.github.io/tgp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Voices</title>
-      <link>http://example.org/voices/</link>
+      <link>https://spookylex.github.io/tgp/voices/</link>
       <pubDate>Fri, 16 Sep 2022 11:55:36 -0400</pubDate>
       
-      <guid>http://example.org/voices/</guid>
+      <guid>https://spookylex.github.io/tgp/voices/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://spookylex.github.io/tgp/about/</link>
       <pubDate>Wed, 14 Sep 2022 18:46:29 -0400</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://spookylex.github.io/tgp/about/</guid>
       <description>Bienvenue! The Guillemets Project is designed by Spyridon Simotas and Alexis Osipovs at the University of Virginia. Our project is exploring how online real-life technology impacts French language learning. One of our primary objectives is to emphasize the importance and benefits of learning French, as well as any other world language, and to engage with students through various creative media. </description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>http://example.org/page/</link>
+      <link>https://spookylex.github.io/tgp/page/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>http://example.org/page/</guid>
+      <guid>https://spookylex.github.io/tgp/page/</guid>
       <description>Desc Text.</description>
     </item>
     
