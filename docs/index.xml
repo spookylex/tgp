@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://theguillemetsproject.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Podcast</title>
+      <link>https://theguillemetsproject.com/podcast/</link>
+      <pubDate>Fri, 16 Sep 2022 21:07:22 -0400</pubDate>
+      
+      <guid>https://theguillemetsproject.com/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Voices</title>
       <link>https://theguillemetsproject.com/voices/</link>
       <pubDate>Fri, 16 Sep 2022 11:55:36 -0400</pubDate>
