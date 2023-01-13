@@ -17,11 +17,22 @@ menu:
           name: tags
           url: /tags/
           weight: 20
-        - identifier: podcast
-          name: podcast
-          url: /podcast/
-          weight: 30
+        # - identifier: podcast
+        #   name: podcast
+        #   url: /podcast/
+        #   weight: 30
         - identifier: voices
           name: voices
           url: /voices/
           weight: 40
+
+params:
+    homeInfoParams:
+        Title: Welcome, Bienvenue! 
+        Content: The Guillemets Project is a podcast by Spyridon Simotas and Alexis Osipovs at the University of Virginia.
+
+    socialIcons: # optional
+        - name: "<spotify>"
+          url: "<link>"
+        - name: "<platform 2>"
+          url: "<link2>"

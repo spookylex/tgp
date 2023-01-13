@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>first on The Guillemets Project</title>
-    <link>https://theguillemetsproject.com/tags/first/</link>
-    <description>Recent content in first on The Guillemets Project</description>
+    <title>podcast on The Guillemets Project</title>
+    <link>https://theguillemetsproject.com/tags/podcast/</link>
+    <description>Recent content in podcast on The Guillemets Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://theguillemetsproject.com/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://theguillemetsproject.com/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My 1st post</title>
       <link>https://theguillemetsproject.com/page/</link>
