@@ -6,14 +6,23 @@
     <description>Recent content on The Guillemets Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://theguillemetsproject.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Jan 2023 16:51:43 -0500</lastBuildDate><atom:link href="https://theguillemetsproject.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trailer episode</title>
+      <link>https://theguillemetsproject.com/posts/trailer/</link>
+      <pubDate>Fri, 13 Jan 2023 16:51:43 -0500</pubDate>
+      
+      <guid>https://theguillemetsproject.com/posts/trailer/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
     <item>
       <title>Podcast</title>
       <link>https://theguillemetsproject.com/podcast/</link>
       <pubDate>Fri, 16 Sep 2022 21:07:22 -0400</pubDate>
       
       <guid>https://theguillemetsproject.com/podcast/</guid>
-      <description></description>
+      <description>Welcome to The Guillemets Project (Trailer)</description>
     </item>
     
     <item>
@@ -36,12 +45,13 @@
     
     <item>
       <title>My 1st post</title>
-      <link>https://theguillemetsproject.com/page/</link>
+      <link>https://theguillemetsproject.com/posts/page/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://theguillemetsproject.com/page/</guid>
+      <guid>https://theguillemetsproject.com/posts/page/</guid>
       <description>Desc Text.</description>
     </item>
+    
     
   </channel>
 </rss>

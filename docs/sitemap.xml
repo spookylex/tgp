@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://theguillemetsproject.com/tags/podcast/</loc>
+    <lastmod>2023-01-13T16:51:43-05:00</lastmod>
+  </url><url>
+    <loc>https://theguillemetsproject.com/posts/</loc>
+    <lastmod>2023-01-13T16:51:43-05:00</lastmod>
+  </url><url>
+    <loc>https://theguillemetsproject.com/tags/</loc>
+    <lastmod>2023-01-13T16:51:43-05:00</lastmod>
+  </url><url>
+    <loc>https://theguillemetsproject.com/</loc>
+    <lastmod>2023-01-13T16:51:43-05:00</lastmod>
+  </url><url>
+    <loc>https://theguillemetsproject.com/tags/trailer/</loc>
+    <lastmod>2023-01-13T16:51:43-05:00</lastmod>
+  </url><url>
+    <loc>https://theguillemetsproject.com/posts/trailer/</loc>
+    <lastmod>2023-01-13T16:51:43-05:00</lastmod>
+  </url><url>
     <loc>https://theguillemetsproject.com/podcast/</loc>
     <lastmod>2022-09-16T21:07:22-04:00</lastmod>
   </url><url>
@@ -11,17 +29,10 @@
     <loc>https://theguillemetsproject.com/about/</loc>
     <lastmod>2022-09-14T18:46:29-04:00</lastmod>
   </url><url>
-    <loc>https://theguillemetsproject.com/tags/first/</loc>
+    <loc>https://theguillemetsproject.com/posts/page/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://theguillemetsproject.com/page/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://theguillemetsproject.com/tags/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://theguillemetsproject.com/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <loc>https://theguillemetsproject.com/archives/</loc>
   </url><url>
     <loc>https://theguillemetsproject.com/categories/</loc>
   </url>

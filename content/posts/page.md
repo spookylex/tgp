@@ -1,10 +1,9 @@
 ---
-title: "My 1st post"
+title: "Episode 1: Our Journey Through French"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/podcast"]
 tags: ["podcast"]
-author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
@@ -12,7 +11,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Desc Text."
-canonicalURL: "https://theguillemetsproject.com/to/page"
+canonicalURL: "https://theguillemetsproject.com/to/ep1"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -35,4 +34,5 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-Check out our trailer episode!
+Listen to our "Journey through French" on the following platforms.
+{{< iframe src="https://anchor.fm/the-guillemets-project/embed">}}
