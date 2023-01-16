@@ -35,12 +35,15 @@ UseHugoToc: true
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
 ---
-Welcome to our podcast! Our project explores how real-life online technology impacts French language learning. Join us on our journey!
+### Welcome to our podcast! 
+
+Our project explores how real-life online technology impacts French language learning. Join us on our journey!
 
 {{< spotify "https://open.spotify.com/embed/show/7Kv7rmTwPdwyLnRT9mjFit?utm_source=generator&theme=0">}}
 
+### [Available to listen on all podcast platforms](https://anchor.fm/the-guillemets-project)
 ---
-Transcription: 
+### Transcription: 
 > AO: How does technology impact language learning?
 
 > SS: Since when has the internet become a dictionary? How many other digital platforms are frequently used by language students, and what are they?  
