@@ -28,11 +28,11 @@ menu:
 
 params:
     homeInfoParams:
-        Title: Welcome, Bienvenue! 
-        Content: The Guillemets Project is a podcast by Spyridon Simotas and Alexis Osipovs at the University of Virginia.
+        Title: "Welcome \U0001F44B"
+        Content: "The Guillemets Project is a podcast by \n\n\nSpyridon Simotas and Alexis Osipovs \n\n\nat the University of Virginia. \U0001F399" 
 
     socialIcons: # optional
-        - name: "<spotify>"
-          url: "<link>"
-        - name: "<platform 2>"
-          url: "<link2>"
+        - name: Spotify
+          url: "https://open.spotify.com/show/7Kv7rmTwPdwyLnRT9mjFit"
+        - name: other
+          url: "https://anchor.fm/the-guillemets-project"
