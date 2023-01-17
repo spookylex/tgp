@@ -35,12 +35,12 @@ UseHugoToc: true
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
 ---
-Listen to our "Journey through French" on the following platforms.
+### Listen to our "Journey through French" on the following platforms.
 
-[Available to listen on all podcast platforms](https://anchor.fm/the-guillemets-project)
+### [Available to listen on all podcast platforms](https://anchor.fm/the-guillemets-project)
 
 ---
-Transcription:
+### Transcription:
 
 > SS: Ouvrez les guillemets.  
 
@@ -106,6 +106,32 @@ Transcription:
 
 > AO: Absolutely!
 
-> SS: But as you said, there is much more that comes through language learning than just the linguistic skills and we call themm world languages for a reason, right? Each language opens up a world and gives students the opportunity to expand their own. So within each new world that opens up, students can travel, literally and figuratively, both in space and time. They can visit a country where the langauge is spoken, or they can learn more about the culture by exploring its artifacts: literature, cinema, music, etc, and its history of course. 
+> SS: But as you said, there is much more that comes through language learning than just the linguistic skills and we call themm world languages for a reason, right? Each language opens up a world and gives students the opportunity to expand their own. So within each new world that opens up, students can travel, literally and figuratively, both in space and time. They can visit a country where the langauge is spoken, or they can learn more about the culture by exploring its artifacts (literature, cinema, music, etc.) and its history of course. 
 
-> AO: Absolutely, and these activities and opportunities at UVA are so important and what really shows you the world of French. 
+> AO: Absolutely, and these activities and opportunities at UVA are so important and they're what really shows you the world of French. You're being immersed and you're learning about the culture and you're learning even the flaws - like we said - Paris syndrome, it's not what it's cracked up to be. It's not what's in the movies all the time. I mean, one thing that we talk about is L'Académie Française. 
+
+> AO: For our listeners, L’Académie Française is an exclusive council, consisting of 40 members, and it was first established in 1635 by Cardinal Richelieu. So in the beginning, this council was essentially  established to raise French, the French language, to the same status and dignity of their counterparts of the lingua franca of the time, which were Latin and Greak. So, to do this, they had a very important role to make French, which was to essentially, they were in charge of creating the French dictionary - the official dictionary. And actually on their website, they describe that, « Du haut Moyen Âge au début du 17ème siècle, le français passe lentement de l’état de langue du vulgaire (ou vernaculaire) à celui de langue égale en dignité au latin. » So, L’Académie Française soon became in charge of creating the official language and they were very very strict, and they still are to this day. And this committee is still at the heart of the French langauge and creating the dictionary and almost the grammar rules for French. And they're very strict and they're against anglicismes and anything that could taint the quality of the French language and the formality and elegance that it has. And recently, an example that incorporates both langauge and technology, L’Académie Française’s has made the decision to ban anglophone words like e-sports, streamer, and pro-gamer. And so instead, they propose the official alternatives as “jeu video de competition”, “joueur-animateur en direct”, and “joueur professionnel”. As technology advances, and more modern slang terms are spread gloablly -especially now-, and become part of online culture. Why does L’Académie Française stick to their archaic rules, and why do they restrict the way we communicate with others, and what role do they have on society?  
+
+> SS: Oh my god there's so much to say. But I will just want to mention that as much as there is policing on guillements, entre guillemets, for the French language by L’Académie Française or numerous other councils and commissions, there is also creativity, imagination, and invention. For example, La commission d'enrichissement de la langue française which acts under the authority of the General Delegation for the French language and the languages of France, is the main provider of French technical terms, equivalent to terms and neologisms originated in American English. For example, they have a website where you can search for these terms, and an app even. The app is called [France Terme](https://apps.apple.com/us/developer/delegation-generale-a-la-langue-francaise-et-aux/id994060901). 
+
+> SS: So the role of La commission d'enrichissement de la langue française is neither to ban the technical terms coming from English nor to impose the French counterparts. It is rather, as its name suggests, to *enrich* the French language with options. So that professionals, technical writers, translators, and the general public can adopt these options and not just have the American terms to go by. So that adds a little bit of precision, a little bit of better understanding of these terms, and that's the point. So despite the technological innovation taking place in the US, when these innovations become worldwide, they need to be described and understood by as many non-Anglophone people as possible. 
+
+> SS: This is where it becomes interesting. Because a new gadget launched in the US and renamed for a new market and culture can acquire new unexpected attributes.
+
+> SS: Which brings me to the segment of our podcast where we introduce a French term and how it connects with language and technology. Our word of the day is “ordinateur.” 
+
+> SS: When computers first became available in France by IBM in 1955, the IBM marketing department thought necessary to find another another name for them in French. To do so, they contacted philologist **Jacques Perret** who came up with the word *ordinateur*. "Que diriez-vous d'ordinateur ?" writes Jacques Perret, and he continues: "c'est un mot correctement formé, qui se trouve même dans le Littré" (le Littré est une dictionaire célebre de dix-neuvième siècle) "comme adjectif désignant Dieu qui met de l'ordre dans le monde." 
+
+> SS: So, the word "ordinateur" is a repurposed term from the religious context. And I think that's fascinating! It is no wonder why computers, automation, robots, AI, have always been seen as somewhat mystical or oppressive entities, because they have the potential to impose an order that is not necessarily compatible with that of humans...  
+
+> AO: That's really interesting and it's also fascinating how you think, if it's in a religious context, normally "ordinateurs" or computers would be seen as the creators, but in fact the humans are the ones who have created these pieces of technology. So that adds another sort of layer to it all. 
+
+> AO: Well this has been such an interesting conversation and I'm looking forward to our next one. For our listeners, stay tuned for our next episode, and also be on the lookout for our posters which are up in the different bulliten boards in New Cabell Hall on each floor. So if you happen to see a poster that says, "Why are you studying a world language?" please feel free to scan the QR code, or you can physically write on our posters with a pen or a marker, however you'd like, and give us your insight and your voice. Also you can answer our prompt on our [website](https://theguillemetsproject.com/voices).
+
+> SS: And we will make sure to include your voice in one of our next episodes.
+
+> AO: Thanks so much for listening. Ciao!
+
+> SS: Ciao!
+
+---
