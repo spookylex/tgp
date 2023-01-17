@@ -120,7 +120,7 @@ UseHugoToc: true
 
 > SS: Which brings me to the segment of our podcast where we introduce a French term and how it connects with language and technology. Our word of the day is “ordinateur.” 
 
-> SS: When computers first became available in France by IBM in 1955, the IBM marketing department thought necessary to find another another name for them in French. To do so, they contacted philologist **Jacques Perret** who came up with the word *ordinateur*. "Que diriez-vous d'ordinateur ?" writes Jacques Perret, and he continues: "c'est un mot correctement formé, qui se trouve même dans le Littré" (le Littré est une dictionaire célebre de dix-neuvième siècle) "comme adjectif désignant Dieu qui met de l'ordre dans le monde." 
+> SS: When computers first became available in France by IBM in 1955, the IBM marketing department thought necessary to find another name for them in French. To do so, they contacted philologist **Jacques Perret** who came up with the word *ordinateur*. "Que diriez-vous d'ordinateur ?" writes Jacques Perret, and he continues: "c'est un mot correctement formé, qui se trouve même dans le Littré" (le Littré est une dictionaire célebre de dix-neuvième siècle) "comme adjectif désignant Dieu qui met de l'ordre dans le monde." 
 
 > SS: So, the word "ordinateur" is a repurposed term from the religious context. And I think that's fascinating! It is no wonder why computers, automation, robots, AI, have always been seen as somewhat mystical or oppressive entities, because they have the potential to impose an order that is not necessarily compatible with that of humans...  
 
