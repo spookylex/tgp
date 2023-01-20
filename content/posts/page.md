@@ -37,6 +37,8 @@ UseHugoToc: true
 ---
 ### Listen to our "Journey through French" on the following platforms.
 
+{{< spotify "https://open.spotify.com/episode/5q4SR5Ejjxqd55vOYI8rbe?si=527a6b1aa28145dd">}}
+
 ### [Available to listen on all podcast platforms](https://anchor.fm/the-guillemets-project)
 
 ---
@@ -60,7 +62,7 @@ UseHugoToc: true
 
 > SS: Il y a deux scènes qui m’ont marqué à l’époque, je suis aujourd’hui incapable de te dire dans quel film je les ai vues. La première se passe dans un appartement parisien. La caméra est placée dans un angle qui ne cadre pas seulement la pièce, mais la fenêtre au fond de la pièce aussi. Et là, tout d’un coup, pendant que la scène se déroule, voilà le métro aérien qui passe. Ma tête a explosé.
 
-> SS: Il y a un train qui passe à la hauteur des fenêtres des appartements, et donc, j’ai imaginé, par exemple, les gens à l’intérieur des appartements qui pouvez contempler par exemple de [3:43] leur canapé le trempasse et même les passagers de train qui pouvez aussi jeter des regards éclairs dans la vie des gens à travers les fenêtres. Donc, c’était quelques chose de très impressionnant pour moi, c’est voilà. 
+> SS: Il y a un train qui passe à la hauteur des fenêtres des appartements, et donc, j’ai imaginé, par exemple, les gens à l’intérieur des appartements qui pouvez contempler par exemple depuis leur canapé le trempasse et même les passagers de train qui pouvez aussi jeter des regards éclairs dans la vie des gens à travers les fenêtres. Donc, c’était quelques chose de très impressionnant pour moi, c’est voilà. 
 
 > SS: La deuxième image a, elle aussi, maintenant que j’y pense, à avoir avec le métro aérien. Mais, cette fois c’est une scène qui se déroule sous un pont où passe le métro. Et encore une fois, c’était l’aménagement urbain qui m’émerveillait plutôt que ce que les protagonistes y faisait. Donc, après avoir vécu à Paris pendant plusieurs années, et avoir fréquenté le quartier en question, je sais qu’il s’agit du pont bir-hakeim et de la station de métro Passy. Mon amie Sophia vivait là-bas.
 
