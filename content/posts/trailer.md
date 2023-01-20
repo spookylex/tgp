@@ -39,7 +39,9 @@ UseHugoToc: true
 
 Our project explores how real-life online technology impacts French language learning. Join us on our journey!
 
-{{< spotify "https://open.spotify.com/embed/show/7Kv7rmTwPdwyLnRT9mjFit?utm_source=generator&theme=0">}}
+{{< spotify "https://open.spotify.com/embed/episode/3JRDN2o0FqiMNDvPdKX4AA?utm_source=generator">}}
+
+<!-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3JRDN2o0FqiMNDvPdKX4AA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
 
 ### [Available to listen on all podcast platforms](https://anchor.fm/the-guillemets-project)
 ---
