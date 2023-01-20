@@ -37,7 +37,9 @@ UseHugoToc: true
 ---
 ### Listen to our "Journey through French" on the following platforms.
 
-{{< spotify "https://open.spotify.com/episode/5q4SR5Ejjxqd55vOYI8rbe?si=527a6b1aa28145dd">}}
+{{< spotify "https://open.spotify.com/embed/episode/5q4SR5Ejjxqd55vOYI8rbe?utm_source=generator">}}
+
+<!-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5q4SR5Ejjxqd55vOYI8rbe?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
 
 ### [Available to listen on all podcast platforms](https://anchor.fm/the-guillemets-project)
 
