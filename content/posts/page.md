@@ -35,7 +35,7 @@ UseHugoToc: true
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
 ---
-### Listen to our "Journey through French" on the following platforms.
+### In this episode, we explore what led both of us to study French, the phenomenon known as Paris Syndrome, and L'Académie Française. 
 
 {{< spotify "https://open.spotify.com/embed/episode/5q4SR5Ejjxqd55vOYI8rbe?utm_source=generator">}}
 

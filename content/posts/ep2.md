@@ -22,6 +22,13 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 ---
-
+<!-- ### Listen to our "Google Translate: A World Without Language Barriers?" on the following platforms. -->
+### In this episode, we take a deep dive into Google Translate and read some recent scholarship on the topic.
 {{< spotify "https://open.spotify.com/embed/episode/2frXnnf70C1PlbI1vD36ub?utm_source=generator">}}
 <!-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2frXnnf70C1PlbI1vD36ub?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
+
+### [Available to listen on all podcast platforms](https://anchor.fm/the-guillemets-project)
+
+---
+### Transcription:
+    Work in progress...
